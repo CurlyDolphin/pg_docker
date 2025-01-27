@@ -61,6 +61,18 @@
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/web-profiler-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phpstan/phpdoc-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/property-info" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/symfony/validator" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/webmozart/assert" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
